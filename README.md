@@ -2,7 +2,7 @@
 #despliegue
 
 <ul>
-    <li>git clone https://github.com/cesarmayta/tiendaonlinedjango.git</li>
+    <li>git clone https://github.com/BenjaminVeli/Django-REST-Framework-y-React-CRUD.git</li>
     <li>python -m venv venv</li>
     <li>source venv/scripts/activate</li>
     <li>pip install -r requirements.txt</li>
