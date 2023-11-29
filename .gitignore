@@ -1,0 +1,12 @@
+# Archivos y directorios generados por Django y Python
+__pycache__/
+*.pyc
+db.sqlite3
+
+# Entorno virtual (nombre de la carpeta del entorno virtual)
+env/
+
+# Node.js (si usas npm o yarn)
+node_modules/
+
+# Otros archivos y directorios que desees omitir
